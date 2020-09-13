@@ -1,0 +1,18 @@
+/*
+*****************************************
+Scott Horsburgh
+future_value Application
+06/18/2019
+*****************************************
+*/
+#futureValueForm{
+	margin-top: 25px;
+	border: 1px solid black; 
+	box-shadow: 5px 10px 8px #888888; 
+	padding-left: 10px; 
+	width: 50%
+}
+.inputForm{
+	float: left;
+	margin-left: 150px;
+}
